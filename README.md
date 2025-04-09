@@ -1,11 +1,11 @@
 
-#📚 Power BI projekt: Vizualizace čtenářských dat
+# 📚 Power BI projekt: Vizualizace čtenářských dat
 
 Ve svém posledním projektu pro Engeto jsem se rozhodla pracovat s vlastními daty – konkrétně s knihami, které jsem v posledních letech přečetla. Dataset jsem připravila pomocí web scrapingu v Pythonu. Tento projekt najdete zde:  
 🔗 https://github.com/martikudelova/Books_webscraping_withAI
 
 
-##📌 Zadání projektu:
+## 📌 Zadání projektu:
 - Rozsah 2-5 stránek
 - Použití minimálně 5 různých typů vizuálů
 - Filtrování (primárně) pomocí průřezů/slicerů
@@ -16,7 +16,7 @@ Ve svém posledním projektu pro Engeto jsem se rozhodla pracovat s vlastními d
 - Grafická úprava použitých vizuálů, zvolení správných typů vizuálů a vizuálně přívětivý výsledný report
 
 
-##📊 Obsah sestavy:
+## 📊 Obsah sestavy:
 
 1. Rozcestník
 - Úvodní stránka s logem a navigací do jednotlivých částí.
@@ -40,12 +40,12 @@ Ve svém posledním projektu pro Engeto jsem se rozhodla pracovat s vlastními d
 - Přehled TOP 10 nakladatelství a jejich průměrné hodnocení.
 - Lze využít jako inspiraci pro další čtení – např. u nejvyššího hodnocení najít další knihy vydané tímto nakladatelstvím.
 
-###+ Navigace
++ Navigace
 Na každé stránce je možnost přechodu pomocí šipek nebo klikacího obrázku rozcestníku.
 
 
 
-❗ Výzvy, se kterými jsem si naporadila (ocením feedback):
+## ❗ Výzvy, se kterými jsem si naporadila (ocením feedback):
 - Náhled jako koncový uživatel – kde zapnout režim „čtení“ v desktopové aplikaci?
 - Chtěla jsem u TOP/nejkratší/nejdelší knihy zobrazit autora při najetí myší, ale nenašla jsem AI doporučenou možnost Tooltip.
 - Úprava tabulky po rozkliku měsíce ve sloupcovém grafu – nešlo mi trvale přejmenovat/vymazat sloupce nebo upravit/smazat nadpis.
