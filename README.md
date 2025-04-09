@@ -18,29 +18,29 @@ Ve svém posledním projektu pro Engeto jsem se rozhodla pracovat s vlastními d
 
 ## 📊 Obsah sestavy:
 
-1. Rozcestník
+#### 1. Rozcestník
 - Úvodní stránka s logem a navigací do jednotlivých částí.
 
-2. Roční čtení v číslech
+#### 2. Roční čtení v číslech
 - Shrnutí čtenářského výkonu podle let.
 - Zobrazení nejkratší, nejdelší a TOP knihy.
 - Prstencový graf ukazuje, na kolik procent byl splněn roční cíl 20 knih.
 - Při kliknutí na konkrétní měsíc se zobrazí tabulka s detaily o přečtených knihách.
 
-3. Nejoblíbenější autoři
+#### 3. Nejoblíbenější autoři
 - Autoři podle počtu přečtených knih.
 - Mapa světa ukazuje národnosti autorů – čím větší bublina, tím více autorů z dané země.
 
-4. Nejoblíbenější žánry
+#### 4. Nejoblíbenější žánry
 - Karta zobrazuje 5 nejčtenějších a 3 nejméně čtené žánry.
 - Možnost filtrování podle roku – pouze roky s vyšší četbou.
 
-5. Vývoj čtení
+#### 5. Vývoj čtení
 - Spojnicový graf vývoje čtení podle žánrů v jednotlivých letech.
 - Přehled TOP 10 nakladatelství a jejich průměrné hodnocení.
 - Lze využít jako inspiraci pro další čtení – např. u nejvyššího hodnocení najít další knihy vydané tímto nakladatelstvím.
 
-+ Navigace
+#### + Navigace
 Na každé stránce je možnost přechodu pomocí šipek nebo klikacího obrázku rozcestníku.
 
 
