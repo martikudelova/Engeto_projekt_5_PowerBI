@@ -45,8 +45,8 @@ Na každé stránce je možnost přechodu pomocí šipek nebo klikacího obrázk
 
 
 
-## ❗ Výzvy, se kterými jsem si naporadila (ocením feedback):
+## ❗ Výzvy, se kterými jsem si neporadila (ocením feedback):
 - Náhled jako koncový uživatel – kde zapnout režim „čtení“ v desktopové aplikaci?
 - Chtěla jsem u TOP/nejkratší/nejdelší knihy zobrazit autora při najetí myší, ale nenašla jsem AI doporučenou možnost Tooltip.
 - Úprava tabulky po rozkliku měsíce ve sloupcovém grafu – nešlo mi trvale přejmenovat/vymazat sloupce nebo upravit/smazat nadpis.
-- Zobrazení měsíců i s nulovým počtem knih – chybějící měsíce v ose X, pokud jsem tehdy nic nepřečetla.
+- Zobrazení měsíců i s nulovým počtem knih – nechci mít chybějící měsíce v ose X, pokud jsem nic nepřečetla.
