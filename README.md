@@ -25,7 +25,7 @@ Ve svém posledním projektu pro Engeto jsem se rozhodla pracovat s vlastními d
 - Shrnutí čtenářského výkonu podle let.
 - Zobrazení nejkratší, nejdelší a TOP knihy.
 - Prstencový graf ukazuje, na kolik procent byl splněn roční cíl 20 knih.
-- Při kliknutí na konkrétní měsíc se zobrazí tabulka s detaily o přečtených knihách.
+- Tabulka s detaily o přečtených knihách.
 
 #### 3. Nejoblíbenější autoři
 - Autoři podle počtu přečtených knih.
@@ -36,8 +36,8 @@ Ve svém posledním projektu pro Engeto jsem se rozhodla pracovat s vlastními d
 - Možnost filtrování podle roku – pouze roky s vyšší četbou.
 
 #### 5. Vývoj čtení
-- Spojnicový graf vývoje čtení podle žánrů v jednotlivých letech.
 - Přehled TOP 10 nakladatelství a jejich průměrné hodnocení.
+- Spojnicový graf vývoje čtení podle žánrů v jednotlivých letech.
 - Lze využít jako inspiraci pro další čtení – např. u nejvyššího hodnocení najít další knihy vydané tímto nakladatelstvím.
 
 #### + Navigace
@@ -47,6 +47,5 @@ Na každé stránce je možnost přechodu pomocí šipek nebo klikacího obrázk
 
 ## ❗ Výzvy, se kterými jsem si neporadila (ocením feedback):
 - Náhled jako koncový uživatel – kde zapnout režim „čtení“ v desktopové aplikaci?
-- Chtěla jsem u TOP/nejkratší/nejdelší knihy zobrazit autora při najetí myší, ale nenašla jsem AI doporučenou možnost Tooltip.
-- Úprava tabulky po rozkliku měsíce ve sloupcovém grafu – nešlo mi trvale přejmenovat/vymazat sloupce nebo upravit/smazat nadpis.
-- Zobrazení měsíců i s nulovým počtem knih – nechci mít chybějící měsíce v ose X, pokud jsem nic nepřečetla.
+- Roční čtení: chtěla jsem u TOP/nejkratší/nejdelší knihy zobrazit autora při najetí myší, ale nenašla jsem AI doporučenou možnost Tooltip.
+- Roční čtení: zobrazení měsíců i s nulovým počtem přečtených knih v sloupcovém grafu – nechci mít chybějící měsíce v ose X, pokud jsem nic nepřečetla.
